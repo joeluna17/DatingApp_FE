@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Dating-SPA"
+    }
+  },
+  "defaultProject": "Dating-SPA",
+  "cli": {
+    "analytics": false
+  }
 }
